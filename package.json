@@ -1,0 +1,9 @@
+{
+  "name": "cc-launch-smoke",
+  "version": "1.0.0",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "test": "node --test"
+  }
+}
